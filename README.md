@@ -56,3 +56,12 @@ Feburary 22, 2024.
 11. now click "Search" or Google Search and then you're done you can now seemlessy go through all of google sites without being seen
 
 Feburary 22, 2024.
+
+# 5th Method: Chromeeee (Github Access Needed!)
+
+just follow the videos provided with the links below
+
+1. Part 1: https://drive.google.com/file/d/1dl9xtbftpOmCnPsLepVEiOtpAggeOZeV/view?usp=sharing
+2. Part 2: https://drive.google.com/file/d/1o1pORZfhDeYq2sCm9e6G9aWPKK3F0o4c/view?usp=sharing
+
+Feburary 23, 2024.

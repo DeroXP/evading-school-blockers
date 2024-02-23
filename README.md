@@ -40,3 +40,19 @@ Feburary 22, 2024.
 6. now when you search things on your chromebook you can go anywhere your hotspot allows instead of the school internet. (for example "https://chat.openai.com/")
 
 Feburary 22, 2024.
+
+# 4th Method: Canvas App (if your school uses canvas!)
+
+1. Download Canvas app on your chromebook unless its already there
+2. go to "Dashboard"
+3. click to lines at top left corner
+4. go to "Settings"
+5. then click "Legal"
+6. now click on "Private Policy"
+7. go to the search bar and type "Marketing"
+8. find a source that says "Marketing Privacy | Policy" and press "Learn More"
+9. scroll down till you see "https://www.google.com/policies/privacy/partners/" and click on it
+10. click the six dots on the top right corner or google apps
+11. now click "Search" or Google Search and then you're done you can now seemlessy go through all of google sites without being seen
+
+Feburary 22, 2024.

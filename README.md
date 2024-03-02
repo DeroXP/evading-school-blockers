@@ -74,3 +74,13 @@ Feburary 23, 2024.
 4. **also make sure when you close that page press Ctrl + H then Ctrl + Q to safely close without detection**
 
 March 2, 2024.
+
+**Bonus** Edpuzzle auto-answers (Bookmarklet)
+
+1. go to bookmark area and right-click
+2. "Add Page"
+3. put this line in the URL of the bookmark ``javascript:fetch("https://cdn.jsdelivr.net/gh/ading2210/edpuzzle-answers@latest/script.js").then(r => r.text()).then(r => eval(r))``
+4. go into your eduzzle assignment and press on the bookmark
+5. then click "Answer Questions" then you're done!
+
+March 2, 2024.

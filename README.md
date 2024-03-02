@@ -71,5 +71,6 @@ Feburary 23, 2024.
 1. cilck on this [link](https://vortron-rd.github.io/T-Crack/)
 2. click on the "Unblokcer" section type in a link (**Chatgpt doesn't work**, use perplexitiy.ai)
 3. and now click on the link and boom you're done you're tab is completely invisble if you don't use your school account.
+4. **also make sure when you close that page press Ctrl + H then Ctrl + Q to safely close without detection**
 
 March 2, 2024.

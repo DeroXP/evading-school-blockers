@@ -57,5 +57,5 @@ openButton.style.zIndex = '9999';
 document.body.appendChild(openButton);
 
 openButton.addEventListener('click', () => {
-  createChatModal('https://chat.openai.com/');
+  createChatModal('https://vortron-rd.github.io/T-Crack/');
 });

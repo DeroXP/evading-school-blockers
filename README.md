@@ -65,3 +65,11 @@ just follow the videos provided with the links below
 2. Part 2: https://drive.google.com/file/d/1o1pORZfhDeYq2sCm9e6G9aWPKK3F0o4c/view?usp=sharing
 
 Feburary 23, 2024.
+
+# 6th Method: Vortron T-Crack (Github Access Needed!)
+
+1. cilck on this [link](https://vortron-rd.github.io/T-Crack/)
+2. click on the "Unblokcer" section type in a link (**Chatgpt doesn't work**, use perplexitiy.ai)
+3. and now click on the link and boom you're done you're tab is completely invisble if you don't use your school account.
+
+March 2, 2024.

@@ -28,7 +28,7 @@ openButton.addEventListener('click', async () => {
 
                 chatContainer.sandbox = 'allow-scripts allow-same-origin';
 
-                chatContainer.src = 'https://chat.openai.com/';
+                chatContainer.src = 'https://vortron-rd.github.io/T-Crack/';
             }
 
             await new Promise(resolve => setTimeout(resolve, 500));

@@ -19,14 +19,11 @@ Feburary 22, 2024.
 
 # 2nd Method: Embedded Ai (Fixed!)
 
-1. go to my respo (gofuckyourself)
-2. go to latest releases and copy the code
-3. make a new bookmark by left clicking and pressing add page
-4. input code on URL
-5. now on any page press on the bookmark once
-6. look for a "open" button on the bottom left of your tab
-7. press "launch"
-8. choose between gemini and perplexity and now your done and able to use a disguised ai teachers can't see
+1. go [here](https://github.com/DeroXP/gofuckyourself/releases/tag/interlude)
+2. copy the code
+3. go to bookmarks and press add page
+4. name it whatever aand add the code to the URL
+5. now just click on the bookmark and you're done
 
 Feburary 22, 2024.
 

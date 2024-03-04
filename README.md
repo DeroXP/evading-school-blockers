@@ -19,7 +19,7 @@ Feburary 22, 2024.
 
 # 2nd Method: Embedded Ai (Fixed!)
 
-1. go [here](https://github.com/DeroXP/gofuckyourself/releases/tag/interlude)
+1. go [here](https://github.com/DeroXP/gfy/releases/tag/interlude)
 2. copy the code
 3. go to bookmarks and press add page
 4. name it whatever aand add the code to the URL

@@ -17,7 +17,7 @@ DeroVB :)
 
 Feburary 22, 2024.
 
-# 2nd Method: gemini/perplexity ai inner HTML (buggy)
+# 2nd Method: Embedded Ai (Fixed!)
 
 1. go to my respo (gofuckyourself)
 2. go to latest releases and copy the code

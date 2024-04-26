@@ -61,6 +61,8 @@ just follow the videos provided with the links below
 1. Part 1: https://drive.google.com/file/d/1dl9xtbftpOmCnPsLepVEiOtpAggeOZeV/view?usp=sharing
 2. Part 2: https://drive.google.com/file/d/1o1pORZfhDeYq2sCm9e6G9aWPKK3F0o4c/view?usp=sharing
 
+the name of the repository is now just chromee and it's in my repositories.
+
 Feburary 23, 2024.
 
 # 6th Method: Vortron T-Crack (Github Access Needed!)

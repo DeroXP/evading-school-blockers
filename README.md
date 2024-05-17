@@ -17,7 +17,7 @@ DeroVB :)
 
 Feburary 22, 2024.
 
-# 2nd Method: Embedded Ai (Fixed!)
+# 2nd Method: GFY (untrackable ai)
 
 1. go [here](https://github.com/DeroXP/gfy/releases/tag/interlude)
 2. copy the code

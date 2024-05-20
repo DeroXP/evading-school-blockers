@@ -56,12 +56,10 @@ Feburary 22, 2024.
 
 # 5th Method: Chromeeee (Github Access Needed!)
 
-just follow the videos provided with the links below
+https://github.com/DeroXP/chromee
 
-1. Part 1: https://drive.google.com/file/d/1dl9xtbftpOmCnPsLepVEiOtpAggeOZeV/view?usp=sharing
-2. Part 2: https://drive.google.com/file/d/1o1pORZfhDeYq2sCm9e6G9aWPKK3F0o4c/view?usp=sharing
-
-the name of the repository is now just chromee and it's in my repositories.
+1. create a codespace in that repo, you should look for a green button with code on it and then click on it
+2. it'll bring down a drop down and you should see codespace you wanna click on that, and then there should be instructions infront of your face, you follow them.
 
 Feburary 23, 2024.
 

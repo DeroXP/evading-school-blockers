@@ -25,7 +25,7 @@ Feburary 22, 2024.
 4. name it whatever aand add the code to the URL
 5. now just click on the bookmark and you're done
 
-Feburary 22, 2024.
+May 19, 2024.
 
 # 3rd Method: Access any AI on school chromebook. (Hotspot Needed)
 
@@ -72,7 +72,9 @@ Feburary 23, 2024.
 
 March 2, 2024.
 
-**Bonus** Edpuzzle auto-answers (Bookmarklet)
+### Bonus
+
+Edpuzzle auto-answers (Bookmarklet)
 
 1. go to bookmark area and right-click
 2. "Add Page"

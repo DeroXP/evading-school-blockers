@@ -83,3 +83,9 @@ Edpuzzle auto-answers (Bookmarklet)
 5. then click "Answer Questions" then you're done!
 
 March 2, 2024.
+
+# 7th Method: ExtHang3r (Extension Killer)
+
+1. go to (ExtHang3r)[https://github.com/Blobby-Boi/ExtHang3r]
+2. Copy the (exploit)[https://github.com/Blobby-Boi/ExtHang3r?tab=readme-ov-file#how-do-i-use-it] into your URL
+3. go into a new tab and input this line into the URL and follow the instructions given.

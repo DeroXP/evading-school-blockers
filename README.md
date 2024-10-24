@@ -89,3 +89,13 @@ March 2, 2024.
 1. go to [ExtHang3r](https://github.com/Blobby-Boi/ExtHang3r)
 2. Copy the [exploit](https://github.com/Blobby-Boi/ExtHang3r?tab=readme-ov-file#how-do-i-use-it) into your URL
 3. go into a new tab and input this line into the URL and follow the instructions given.
+
+### Bonus
+
+Edgenuity auto-answers (Bookmarklet) [IN-DEV](https://github.com/DeroXP/edgescape)
+
+1. go to the link
+2. go and copy the bookmarklet in the ReadMe.Md file
+3. go to bookmark area and right-click
+4. "Add Page"
+5. paste into the URL line of the bookmarklet and name it too then use it when you are on a test/quiz.

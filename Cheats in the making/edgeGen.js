@@ -1,3 +1,5 @@
+//so this one is basically edgenuity.js but also can interact with gemini ai through a local host soon will be a server
+
 javascript:void function(){
   const a = document.querySelector("#stageFrame");
 

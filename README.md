@@ -107,3 +107,4 @@ javascript:void function(){(function(){const a=document.createElement("div");a.s
 ```
 1. copy the bookmarklet text above and then make it into a bookmark by putting this into the url line of a bookmarklet
 2. click on it on any site, make sure you have a google sheet tracker ready to input into trackerhub.
+3. this does bypass extension restrictions, but not wifi restricted sites, if this doesnt work make a proxy.

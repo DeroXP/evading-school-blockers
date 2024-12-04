@@ -100,6 +100,8 @@ Edgenuity auto-answers (Bookmarklet) [IN-DEV](https://github.com/DeroXP/edgescap
 4. "Add Page"
 5. paste into the URL line of the bookmarklet and name it too then use it when you are on a test/quiz.
 
+October, 2024
+
 # 8th Method: Music Spot (Bookmarklet)
 
 ```
@@ -108,3 +110,5 @@ javascript:void function(){(function(){const a=document.createElement("div");a.s
 1. copy the bookmarklet text above and then make it into a bookmark by putting this into the url line of a bookmarklet
 2. click on it on any site, make sure you have a google sheet tracker ready to input into trackerhub.
 3. this does bypass extension restrictions, but not wifi restricted sites, if this doesnt work make a proxy.
+
+December 4, 2024

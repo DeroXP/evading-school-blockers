@@ -54,7 +54,7 @@ February, 2024.
 
 February, 2024.
 
-# 5th Method: PotatOS (Github Access Needed!)
+# 5th Method: PotatOS (Easiest Option)
 
 https://github.com/DeroXP/PotatOS
 
